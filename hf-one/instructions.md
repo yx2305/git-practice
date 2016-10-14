@@ -11,9 +11,10 @@ This is an exercise in __git__ as well as __javascript__.
 	* If your group has NOT added you as a collaborator to their forked repo, that means you will either have to request collaborator access to that repo OR create your own forked version of my repository from [jmk2142/git-practice](https://github.com/jmk2142/git-practice).
 
 
-2. On your local computer, create a file and using git, make a commit and push it to your Github repository.
-
-	* Make sure your file is either an \*.md Markdown sample file OR a \*.js Javascript sample file of something you created. I don't really care what you create as long as it is a practice in Markdown or Javascript.
+2. On your local computer, create the following:
+	* Inside folder __hf-one__, a javascript file named __yourUNI.js__
+	* In this file, provide examples of three original Javascript functions.
+		* They can do anything, think of it as practice.
 
 
 3. Then, by the end of Sunday, make a __pull-request__ to me to add your sample file to the main (original / my) repository.
